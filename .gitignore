@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.html
+*.css
+*.jpg
+baby-kids/img/favicon/apple-touch-icon.png
+*.png
+baby-kids/img/favicon/favicon.ico
+*.js
+baby-kids/font/fontello/fontello.ttf
+*.svg
+baby-kids/font/fontello/fontello.woff
+*.mp4
+baby-kids/font/fontello/fontello.eot
+*.WD3
