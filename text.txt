@@ -1,0 +1,5 @@
+Live | 4147768565738679|01|2019|772|william|fry|2701 Summer Street|Burlington|52601|io | alphaonline.us
+Live | 4400665318367313|08|2018|585|Rollin|Stickle|716 Forest Run Rd|Whittier|28789|NC | alphaonline.us
+Live | 4400668688096355|09|2019|144|Lynn|Mitchell|1209 Fitzgerald|Bangs|76823|Tx | alphaonline.us
+Live | 4400665162593360|02|2020|086|Jeffrey|Whitesell|148 San Miguel Drive|Camarillo|93010|Ca | alphaonline.us
+Live | 4856200380358799|10|2019|918|Arnold|Peterson|218 Buena Vista CT|Gardnerville|89460|ne | alphaonline.us
